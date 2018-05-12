@@ -1,0 +1,43 @@
+_repo: The-Little-Gold-Miners-of-the-Sierras-and-Other-Stories_21340
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21340-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Miller, Joaquin
+    aliases:
+    - Miller, Cincinnatus Heine
+    - Miller, Cincinnatus Hiner
+    birthdate: 1837
+    deathdate: 1913
+    gutenberg_agent_id: '8840'
+    url: http://www.gutenberg.org/2009/agents/8840
+    wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
+description: The little gold miners of the Sierras, Joaquin Miller; A modern hero,
+  Marion Harland; Benny's wigwam, Mary Catherine Lee; Benny's disappearance, Mary
+  Catherine Lee; How two schoolboys killed a bear, H. F. Marsh; Pete's printing press,
+  Kate Gannett Wells; Aunt Elizabeth's fence, George H. Hebard; The button boy, A.
+  M. Griffin; Dan Hardy's crippy, James Otis; His three trials, Kate Gannett Wells;
+  In the second dormitory, John Preston True; The doughnut bait, George Varney; A
+  real happening, Mary B. Clafin.
+gutenberg_issued: '2007-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: The little gold miners of the Sierras / Joaquin Miller -- A modern
+  hero / Marion Harland -- Benny's wigwam / Mary Catherine Lee -- Benny's disappearance
+  / Mary Catherine Lee -- How two schoolboys killed a bear / H.F. Marsh -- Pete's
+  printing press / Kate Gannett Wells -- Aunt Elizabeth's fence / George H. Hebard
+  -- The button boy / A.M. Griffin -- Dan Hardy's crippy / James Otis -- His three
+  trials / Kate Gannett Wells -- In the second dormitory / John Preston True -- The
+  doughnut bait / George Varney -- A real happening / Mary B. Clafin.
+title: The Little Gold Miners of the Sierras and Other Stories
+url: http://www.gutenberg.org/ebooks/21340
